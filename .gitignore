@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+smartdesk.db
+.venv/
+venv/
+.env
+uploads/
